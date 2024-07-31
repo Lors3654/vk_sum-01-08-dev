@@ -1,0 +1,14 @@
+{
+  "name": "vk",
+  "version": "1.0.0",
+  "main": "fromFormToServer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
